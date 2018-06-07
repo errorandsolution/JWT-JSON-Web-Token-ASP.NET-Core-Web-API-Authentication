@@ -1,0 +1,11 @@
+C:\Projects\JWTwebAPI\JWTwebAPI\bin\Debug\netcoreapp2.0\JWTwebAPI.deps.json
+C:\Projects\JWTwebAPI\JWTwebAPI\bin\Debug\netcoreapp2.0\JWTwebAPI.runtimeconfig.json
+C:\Projects\JWTwebAPI\JWTwebAPI\bin\Debug\netcoreapp2.0\JWTwebAPI.runtimeconfig.dev.json
+C:\Projects\JWTwebAPI\JWTwebAPI\bin\Debug\netcoreapp2.0\JWTwebAPI.dll
+C:\Projects\JWTwebAPI\JWTwebAPI\obj\Debug\netcoreapp2.0\JWTwebAPI.csprojResolveAssemblyReference.cache
+C:\Projects\JWTwebAPI\JWTwebAPI\obj\Debug\netcoreapp2.0\JWTwebAPI.csproj.CoreCompileInputs.cache
+C:\Projects\JWTwebAPI\JWTwebAPI\obj\Debug\netcoreapp2.0\JWTwebAPI.AssemblyInfoInputs.cache
+C:\Projects\JWTwebAPI\JWTwebAPI\obj\Debug\netcoreapp2.0\JWTwebAPI.AssemblyInfo.cs
+C:\Projects\JWTwebAPI\JWTwebAPI\bin\Debug\netcoreapp2.0\JWTwebAPI.pdb
+C:\Projects\JWTwebAPI\JWTwebAPI\obj\Debug\netcoreapp2.0\JWTwebAPI.dll
+C:\Projects\JWTwebAPI\JWTwebAPI\obj\Debug\netcoreapp2.0\JWTwebAPI.pdb
